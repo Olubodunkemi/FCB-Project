@@ -1,5 +1,6 @@
 # FCB-Project
 ## Onboarding Project
+---
 This data analysis project aims to generate insight into the human hair business in Nigeria.
 Understanding the intricacies of the human hair business in Nigeria is paramount for various stakeholders, including policymakers, investors, entrepreneurs, and researchers. Despite its prominence, there exists a dearth of comprehensive empirical studies that delve into the dynamics, challenges, and opportunities inherent in this industry. Thus, this research endeavors to fill this gap by conducting a meticulous data-driven analysis aimed at elucidating the various facets of the human hair business in Nigeria.
 
@@ -11,3 +12,6 @@ The primary source of data used here is Human Hair.csv and this is an open sourc
 - Microsoft
 - Power Bi
 - Python
+  ** Google sheets
+  * SQL
+    
