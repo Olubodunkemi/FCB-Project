@@ -23,4 +23,12 @@ The primary source of data used here is Human Hair.csv and this is an open sourc
   ```
 
  ![ ](humanhair.jpg)
+
+ |NAME| |ORIGIN| |LENGHT|
+ |----------------------|
+ |Pixie Curl| |Peruvian| |22|
+ |Bone straight| |Chinese| |30|
+ |Afro| |African| |8|
+ |Water waves| |Brazillian| |8|
+ 
     
