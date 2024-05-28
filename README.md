@@ -12,6 +12,6 @@ The primary source of data used here is Human Hair.csv and this is an open sourc
 - Microsoft
 - Power Bi
 - Python
-  ** Google sheets
-  * SQL
+  *Google sheets*
+  **SQL**
     
