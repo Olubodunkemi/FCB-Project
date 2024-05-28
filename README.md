@@ -1,1 +1,4 @@
 # FCB-Project
+## Onboarding Project
+This data analysis project aims to generate insight into the human hair business in Nigeria iljljljkhkdskklfklfjskljdkhhfjhjddkjkdldkdlfjkjkshshdfkasl;kasjskhdhfjsdjhkajklsjklsdjkjdkkhdfjjldksjlakdkjdkasjdkjsfhlakjmdjklajdlasjkkjjsjsdkjdklsklskssjkskjksjkskjkjs,klslksjkdjjdkskksjdjjdjksksks
+## Data sources
