@@ -21,4 +21,6 @@ The primary source of data used here is Human Hair.csv and this is an open sourc
   WHERE CONDITION = MET
 
   ```
+
+  ![](human hair.jpg)
     
